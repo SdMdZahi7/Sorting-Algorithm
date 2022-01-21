@@ -51,7 +51,7 @@ print(list_of_nums)
 # SELECTION SORT
 ![GitHub Logo](SS.png)
 # INSERTION SORT
-![GitHubb Logo](IS.png)
+![GitHub Logo](IS.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
